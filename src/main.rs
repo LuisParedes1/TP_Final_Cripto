@@ -39,8 +39,4 @@ fn main(){
 
     let proof = prove::<F, FibonacciAIR<F>>(&trace, &pub_inputs, &proof_options).unwrap();
     assert!(verify::<F, FibonacciAIR<F>>(&proof, &pub_inputs, &proof_options));
-
-    println!("------");
-    println!("Logre verificar la traza");
-    println!("------");
 }
