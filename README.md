@@ -10,6 +10,10 @@ Una descripcion mas detallada del trabajo se encuentra [aca](https://mis-notas.n
 
 # Ejecutar
 
+## Parte 1
+
+
+
 ## Parte 2
 
 Usando Docker
@@ -22,6 +26,13 @@ Paso 2)
 
 `make docker_compile_and_run_all PROGRAM=cairo_programs/exercise_2.cairo`
 
+## Parte 3
+
+
+## Parte 4
+
+
+## Parte 5
 
 
 # Integrantes
